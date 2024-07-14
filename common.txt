@@ -1,0 +1,2 @@
+This is a common file that branchA and branchB both have in common.
+Here is a line that only branch B has.
